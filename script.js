@@ -5,3 +5,7 @@ function hello(){
 function bye(){
     alert('Bye!');
 }
+
+function america(){
+    alert('America!');
+}
